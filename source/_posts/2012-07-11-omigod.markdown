@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Omigod"
+date: 2012-07-11 05:03
+comments: true
+categories: 
+---
+
+So now we have a HackThisSite blog.
