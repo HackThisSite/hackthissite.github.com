@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[HackThisSite]]></title>
+  <link href="http://HackThisSite.github.com/atom.xml" rel="self"/>
+  <link href="http://HackThisSite.github.com/"/>
+  <updated>2012-07-11T05:04:46-05:00</updated>
+  <id>http://HackThisSite.github.com/</id>
+  <author>
+    <name><![CDATA[HackThisSite Staff]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Omigod]]></title>
+    <link href="http://HackThisSite.github.com/blog/2012/07/11/omigod/"/>
+    <updated>2012-07-11T05:03:00-05:00</updated>
+    <id>http://HackThisSite.github.com/blog/2012/07/11/omigod</id>
+    <content type="html"><![CDATA[<p>So now we have a HackThisSite blog.</p>
+]]></content>
+  </entry>
+  
+</feed>
