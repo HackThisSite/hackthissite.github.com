@@ -4,8 +4,8 @@
 
 url: http://HackThisSite.github.com
 title: HackThisSite
-subtitle: omigod. we have a blog.
-author: HackThisSite Staff
+subtitle: The Official HackThisSite Blog.
+author: HackThisSite
 simple_search: http://google.com/search
 description:
 
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: staff@hackthissite.org
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -58,13 +58,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user:
-github_repo_count: 0
+github_user: HackThisSite
+github_repo_count: 5
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: hackthissite
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
