@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>HackThisSite</title>
-	<meta name="author" content="HackThisSite Staff">
+	<meta name="author" content="HackThisSite">
 
 	
 	<meta name="description" content=" So now we have a HackThisSite blog. Jul 11th, 2012 ">
@@ -51,6 +51,10 @@
 		
 		
 		
+		<a class="twitter" href="http://twitter.com/hackthissite" title="Twitter">Twitter</a>
+		
+		
+		<a class="github" href="https://github.com/HackThisSite" title="GitHub">GitHub</a>
 		
 		
 		
@@ -67,6 +71,20 @@
 
 </header>
 	
+<div id="banner" class="inner">
+	<div class="container">
+		<ul class="feed"></ul>
+	</div>
+	<small><a href="http://twitter.com/hackthissite">hackthissite</a> @ <a href="http://twitter.com">Twitter</a></small>
+	<div class="loading">Loading...</div>
+</div>
+<script src="/javascripts/twitter.js"></script>
+<script type="text/javascript">
+	(function($){
+		$('#banner').getTwitterFeed('hackthissite', 4, false);
+	})(jQuery);
+</script>
+
 	<div id="content" class="inner">
 
 
@@ -107,7 +125,7 @@
 </nav></div>
 	<footer id="footer" class="inner">Copyright &copy; 2012
 
-    HackThisSite Staff
+    HackThisSite
 
 </footer>
 	<script src="/javascripts/slash.js"></script>

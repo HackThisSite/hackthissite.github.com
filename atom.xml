@@ -4,11 +4,11 @@
   <title><![CDATA[HackThisSite]]></title>
   <link href="http://HackThisSite.github.com/atom.xml" rel="self"/>
   <link href="http://HackThisSite.github.com/"/>
-  <updated>2012-07-11T14:19:35-05:00</updated>
+  <updated>2012-07-12T00:00:31-05:00</updated>
   <id>http://HackThisSite.github.com/</id>
   <author>
-    <name><![CDATA[HackThisSite Staff]]></name>
-    
+    <name><![CDATA[HackThisSite]]></name>
+    <email><![CDATA[staff@hackthissite.org]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
