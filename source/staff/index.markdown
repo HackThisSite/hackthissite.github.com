@@ -13,17 +13,17 @@ Root
 
 Devs
 ----
-- Thetan (The Cool Mentor / Blue Elephant Developer)
-- Bren2010 (HackThisSite v5 Developer)
-- leroux (Comms Admin / Quality Engineer)
-- Agro (KidDev)
+- [Agro](https://github.com/AgroTemp) (KidDev)
+- [Bren2010](https://github.com/Bren2010) (HackThisSite v5 Developer)
+- [leroux](https://github.com/leroux) (Comms Admin / Quality Engineer)
+- [lohkey/Thetan](https://github.com/JosephMoniz) (The Cool Mentor / Blue Elephant Developer)
 
 IRC Ops
 -------
-- ScrAm
-- weekend
 - Neophyte
 - rki
+- ScrAm
+- weekend
 
 Forum Mods
 ----------
