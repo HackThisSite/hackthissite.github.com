@@ -15,7 +15,7 @@ Devs
 ----
 - [Agro](https://github.com/AgroTemp) (KidDev)
 - [Bren2010](https://github.com/Bren2010) (HackThisSite v5 Developer)
-- [leroux](https://github.com/leroux) (Comms Admin / Quality Engineer)
+- [leroux](https://github.com/leroux) (DevOps / Quality Engineer)
 - [lohkey/Thetan](https://github.com/JosephMoniz) (The Cool Mentor / Blue Elephant Developer)
 
 IRC Ops
